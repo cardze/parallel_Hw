@@ -1,3 +1,8 @@
 bin/*
 HW1/part2/assembly/
-HW1/part1/*.o
+*.o
+*.a
+*.zip
+HW1/part1/myexp
+.DS_Store
+*.graph
